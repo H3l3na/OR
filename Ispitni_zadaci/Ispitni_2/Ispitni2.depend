@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1472276009 source:c:\users\alma\desktop\c project dump\ispitni2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
