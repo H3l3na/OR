@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1470835776 source:c:\users\alma\desktop\c project dump\labvjezba10zad2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
